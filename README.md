@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Game
 - Description
 
-This repository contains a JavaFX implementation of the classic game of Tic-Tac-Toe. The game is designed as a graphical user interface (GUI) application that allows two players to take turns and compete to win the game. Here's an overview of the key features and components of this Tic-Tac-Toe game:
+This repository contains a JavaFX implementation of the classic game of Tic-Tac-Toe. The game is designed as a graphical user interface (GUI) application that allows two players to take turns and compete to win the game. Here's an overview of the key features and components of this Tic-Tac-Toe game
 # User Interface
 
 - The game is built using JavaFX api, offering an interactive and visually appealing user interface.
